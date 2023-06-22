@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
 </div>
-
+<br>
 1-1) firebase, Vue.js를 활용한 todoList
 <a href="https://pwa-to-do-59da5.web.app/">https://pwa-to-do-59da5.web.app/</a>
 
