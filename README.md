@@ -81,6 +81,7 @@
 <br/>
 
 #### 2. VOW.KR - 롤 전적 사이트 fow.kr 리워크
+##### API-key 때문에 정상 동작 안 할수도 있습니다..
   <div>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
