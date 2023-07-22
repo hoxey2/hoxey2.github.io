@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+  <br/>
 1.1) firebase, Vue.js를 활용한 todoList / 링크 : <a href="https://pwa-to-do-59da5.web.app/">https://pwa-to-do-59da5.web.app/</a>
 
 2. VOW.KR (롤 전적 사이트 fow.kr 리워크)
