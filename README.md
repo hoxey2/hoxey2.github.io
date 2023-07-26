@@ -22,6 +22,11 @@
 
 ```
 
+<div>
+  ![그림1](https://github.com/hoxey2/hoxey2.github.io/assets/80567716/4a6d831b-b674-4196-8699-bcd4c220a65e)
+
+</div>
+
 ```
 
   맡은 역할 / 기능 :
