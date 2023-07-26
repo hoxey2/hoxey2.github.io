@@ -22,10 +22,6 @@
 
 ```
 
-<div>
-  <img src="https://i.ibb.co/2hTdXYy/1.gif" />
-</div>
-
 ```
 
   맡은 역할 / 기능 :
