@@ -26,11 +26,6 @@
 ### 구현 화면
 #### 1. 메인페이지 > 테마여행 파트
 ![그림1](https://github.com/hoxey2/hoxey2.github.io/assets/80567716/e739499d-7404-4821-9f0c-cf7092e965e4)
-　
-#### 2. 패키지& 테마 > 테마별 여행추천
-<img src="https://i.ibb.co/R0Q4pDW/3.gif"/>
-
-<br/>
   
 ***
 
